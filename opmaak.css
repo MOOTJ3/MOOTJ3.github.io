@@ -5,15 +5,17 @@ ul {
 }
 
 li {
-  display: inline;
     float: left;
   }
   
   li a {
     display: block;
     padding: 10px;
-    background-color: #6b3838;
+    background-color: #8a2b2b;
+  }
+  li {
+    display: inline;
   }
   body{
-    background-color: black;
+    background-color: rgb(235, 224, 224);
   }
