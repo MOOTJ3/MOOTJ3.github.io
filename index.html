@@ -7,13 +7,15 @@
         <body style="background-image: url('circles-background-dark-tones_60389-166.avif'); background-size: cover; background-position: center;">
     </head>
     <style>
-        body{
-
-            background-size: cover; /* Scale the image to cover the entire area */
-            background-position: center; /* Center the image */
-            background-repeat: no-repeat; /* Prevent the image from repeating */
-            background-attachment: fixed; /* Keep the image fixed during scrolling */
-            background-color: #161515; /* Fallback color if the image fails to load */
+          .background-box {
+            width: 300px;
+            height: 200px;
+            background-image: url('path/to/your/image.jpg');
+            background-size: contain;
+            background-position: bottom right;
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-color: #e0e0e0; /* Fallback color */
         }
 
    
