@@ -2,7 +2,9 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0 ;
-}
+    overflow: hidden;
+    background-color:#333;
+  }
 
 li {
     float: left;
@@ -17,6 +19,6 @@ li {
     display: inline;
   }
 
-  body{
-    background-color: rgb(235, 224, 224);
+  li a:hover {
+    background-color: #333;
   }
