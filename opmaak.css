@@ -32,12 +32,18 @@ li a {
 li a:hover {
   background-color: rgb(124, 118, 118);
 }
+
+body{ 
+  background-color: darkslategray;
+}
+
+
 title{ 
 
   text-align: center;
   margin-top: 50px;
 }
-body {
-  background-color: #333;
-}
-.title
+
+
+
+
