@@ -1,3 +1,13 @@
+.pagina {
+  bottom: 0;
+  right: 0;
+}
+
+.pagina2 {
+  bottom: 0;
+  right: 0;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -8,38 +18,15 @@ ul {
 
 li {
   float: left;
-  display: inline;
-  border-right: 1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
 }
 
 li a {
   display: block;
-  color: white; 
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  background-color: #ffffff;
 }
-
 li a:hover {
-  background-color: darkgrey
-}
-
-.active {
-  background-color: ;
-}
-
-.pagina {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 10px;
-}
-
-body {
-  background-color: grey;
+  background-color: darkgray;
 }
