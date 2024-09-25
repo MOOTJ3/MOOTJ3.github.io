@@ -32,8 +32,8 @@ li a {
 li a:hover {
   background-color: rgb(124, 118, 118);
 }
+title{ 
 
-{ body
-background-color:gray 
-
+  text-align: center;
+  margin-top: 50px;
 }
