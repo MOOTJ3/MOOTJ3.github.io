@@ -38,17 +38,7 @@ li {
     border-right: none;
   }
 
-  
-
-
-
-
-
-
-
-
-
-  li a {
+   li a {
     display: block;
     padding: 10px;
     background-color: #8a2b2b;
@@ -61,3 +51,5 @@ li {
   right: 0;
   margin: 10px;
 }
+
+
