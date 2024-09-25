@@ -15,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #e3d5d5;
+  background-color: #141313;
 }
 
 li {
@@ -42,6 +42,10 @@ title{
 
   text-align: center;
   margin-top: 50px;
+}
+.title{
+  text-align: center;
+  color:#e3d5d5
 }
 
 
