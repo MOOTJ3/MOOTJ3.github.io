@@ -1,10 +1,12 @@
 .pagina {
+  position: absolute;
   bottom: 0;
   right: 0;
   margin: 10px;
 }
 
 .pagina2 {
+  position: absolute;
   bottom: 0;
   right: 0;
   margin: 10px;
