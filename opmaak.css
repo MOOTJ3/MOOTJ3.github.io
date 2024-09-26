@@ -51,6 +51,9 @@ body{
   color:#e3d5d5
 }
 
-
+p {
+  max-width: 600px;
+  text-align: justify;
+}
 
 
