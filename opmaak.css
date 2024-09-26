@@ -55,5 +55,10 @@ p {
   max-width: 600px;
   text-align: justify;
 }
-
+.afbeelding1 {
+  position:absolute;
+top: 50px;
+left: 100px;
+width: 200px;
+}
 
