@@ -81,13 +81,13 @@ width: 300px;
 }
 
 .container {
-  display: flex;
-  justify-content: center; 
-  align-items: center;
+  text-align: center;
  
 }
 
 .afbeelding3 {
+  margin: 20px auto; 
+  display: block; 
   width: 300px; 
 }
 .binarybonanza {
