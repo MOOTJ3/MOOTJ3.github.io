@@ -81,7 +81,7 @@ width: 300px;
   }
 
 .afbeelding3 {
-  pposition:absolute;
+  position: absolute;
   margin: 20px;
   top: 50px;
   right: 100px;
