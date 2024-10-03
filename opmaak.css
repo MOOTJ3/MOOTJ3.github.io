@@ -73,10 +73,10 @@ width: 300px;
 
 
   .afbeelding3  {
- display: table-cell;
+position: absolute;
  vertical-align: middle;
  margin: 0px;
-width: 300px;
+ width: 300px;
   }
     
    
