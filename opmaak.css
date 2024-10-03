@@ -89,6 +89,13 @@ width: 300px;
   width: 300px; 
 }
 
+.kleurmoddelen2 {
+  position:absolute;
+  margin: 20px;
+  top: 50px;
+  right: 100px;
+  width: 300px;
+}
 
 
 .binarybonanza {
