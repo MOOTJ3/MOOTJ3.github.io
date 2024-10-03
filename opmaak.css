@@ -82,6 +82,7 @@ width: 300px;
 
 
 .afbeelding3 {
+  position: relative;
   margin: 20px auto; 
   display: block; 
   bottom: center;
