@@ -83,18 +83,19 @@ width: 300px;
 
 .kleurmodellen1 {
   position: relative;
-  margin: 20px ; 
+  margin: 20px; 
   display: block; 
-  bottom: center;
-  width: 300px; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 300px;  
 }
 
 .kleurmoddelen2 {
-  position:absolute;
+  position: absolute;
   margin: 20px;
   display: block;
   top: 50px;
-  right: 100px;
+  right: 100px; 
   width: 300px;
 }
 
