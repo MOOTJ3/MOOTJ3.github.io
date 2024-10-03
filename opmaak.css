@@ -79,7 +79,13 @@ width: 300px;
   transform: translate(-50%, -50%);
   width:300px ;
 } 
-
+.afbeeling2,5 {
+  position:absolute;
+  margin: 20px;
+  top: 50px;
+  right: 100px;
+  width: 300px;
+}
 
 .binarybonanza {
   position: absolute;
