@@ -72,13 +72,12 @@ width: 300px;
   }
 
 .afbeelding3 {
-  position: absolute;
-  margin:20px ;
+  pposition:absolute;
+  margin: 20px;
   top: 50px;
-  left: 50px;
-  transform: translate(-50%, -50%);
-  width:300px ;
-} 
+  right: 100px;
+  width: 300px;
+}
 .afbeeling2.5 {
   position:absolute;
   margin: 20px;
