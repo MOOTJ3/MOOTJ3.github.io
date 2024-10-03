@@ -79,6 +79,13 @@ right: 100px;
 width: 300px;
 }
 
+.afbeelding4 {
+  position: absolute;
+  margin: 20px;
+  border-bottom-right-radius: 50px;
+  right: 100px;
+  width: 300px;
+}
 
 .binarybonanza {
   position: absolute;
