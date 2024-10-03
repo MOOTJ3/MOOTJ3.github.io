@@ -84,11 +84,12 @@ width: 300px;
   display: flex;
   justify-content: center; 
   align-items: center; 
-
-.afbeelding3 {
-  width: 300px; 
 }
 
+.afbeelding3 {
+  width: 300px;
+}
+ 
 .binarybonanza {
   position: absolute;
   position: center;
