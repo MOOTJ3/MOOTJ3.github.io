@@ -74,13 +74,13 @@ width: 300px;
 .afbeelding3 {
   position: absolute;
 margin: 20px;
-min-width: 50px;
+bottom: 50px;
 right: 100px;
 width: 300px;
 }
 
 .afbeelding4 {
-  position: absolute;
+  position: relative;
   margin: 50px;
   border-radius: 50px;
   right: 100px;
