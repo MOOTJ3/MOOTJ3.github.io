@@ -71,12 +71,6 @@ width: 300px;
   width: 300px;
   }
 
-.afbeelding3 {
-  position: absolute;
-margin: 20px;
-right: 100px;
-width: 300px;
-}
 
 .afbeelding4 {
   position: absolute;
@@ -86,7 +80,14 @@ width: 300px;
   width: 300px;
 }
 
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
 
+.afbeelding3 {
+  width: 300px; 
+}
 
 .binarybonanza {
   position: absolute;
