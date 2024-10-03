@@ -63,14 +63,13 @@ right: 100px;
 width: 300px;
 }
 
-.afbeelding2 [ 
+.afbeelding2 {
   position:absolute;
   margin: 20px;
   top: 50px;
   right: 100px;
   width: 300px;
-]
-
+  }
 
 .afbeelding3 {
   position: absolute;
