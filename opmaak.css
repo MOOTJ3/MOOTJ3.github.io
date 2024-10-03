@@ -80,7 +80,7 @@ width: 300px;
 }
 
 .afbeelding4 {
-  position: absolute;
+  position: relative;
   margin: 20px;
   border-bottom-right-radius: 50px;
   right: 100px;
