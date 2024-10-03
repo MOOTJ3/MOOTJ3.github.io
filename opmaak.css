@@ -55,7 +55,7 @@ p {
   max-width: 600px;
   text-align: justify;
 }
-.afbeelding1 {
+.index1 {
 position:absolute;
 margin: 20px;
 top: 50px;
@@ -63,7 +63,7 @@ right: 100px;
 width: 300px;
 }
 
-.afbeelding2 {
+.binairstelsel1 {
   position:absolute;
   margin: 20px;
   top: 50px;
@@ -72,7 +72,7 @@ width: 300px;
   }
 
 
-.afbeelding4 {
+.binairstelsel2 {
   position: absolute;
   margin: 50px;
   border-radius: 50px;
@@ -81,13 +81,16 @@ width: 300px;
 }
 
 
-.afbeelding3 {
+.kleurmodellen1 {
   position: relative;
   margin: 20px auto; 
   display: block; 
   bottom: center;
   width: 300px; 
 }
+
+
+
 .binarybonanza {
   position: absolute;
   position: center;
