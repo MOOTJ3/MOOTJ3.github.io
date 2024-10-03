@@ -82,9 +82,9 @@ width: 300px;
 
 .afbeelding3 {
   position: absolute;
-  display: flex;
-  justify-content: center; 
-  align-items: center; 
+  margin: 50px;
+  border-radius: 50px;
+  right: 100px;
   width: 300px;
 }
 
