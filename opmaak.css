@@ -80,15 +80,16 @@ width: 300px;
   width: 300px;
 }
 
-.afbeelding3 {
-  position: absolute;
-  margin: 50px;
-  border-radius: 50px;
-  right: 100px;
-  width: 300px;
+.container {
+  display: flex;
+  justify-content: center; /
+  align-items: center;
+  height: 100vh; 
 }
 
-
+.afbeelding3 {
+  width: 300px; 
+}
 .binarybonanza {
   position: absolute;
   position: center;
