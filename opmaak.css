@@ -71,6 +71,15 @@ width: 300px;
   width: 300px;
   }
 
+
+  .afbeeling2.1 {
+    position:absolute;
+    margin: 20px;
+    top: 50px;
+    right: 100px;
+    width: 300px;
+  }
+
 .afbeelding3 {
   pposition:absolute;
   margin: 20px;
@@ -78,13 +87,7 @@ width: 300px;
   right: 100px;
   width: 300px;
 }
-.afbeeling2.5 {
-  position:absolute;
-  margin: 20px;
-  top: 50px;
-  right: 100px;
-  width: 300px;
-}
+
 
 .binarybonanza {
   position: absolute;
