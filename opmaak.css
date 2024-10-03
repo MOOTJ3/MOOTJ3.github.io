@@ -71,12 +71,15 @@ width: 300px;
   width: 300px;
   }
 
-  .afbeeling3 {
-    position:absolute;
-    margin-bottom: 20px;
-    right: 100px;
-    width: 300px;
+
+  .afbeelding3  {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
   }
+   
+
 
 .afbeelding4 {
   position: absolute;
