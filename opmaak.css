@@ -74,18 +74,23 @@ width: 300px;
 .afbeelding3 {
   position: absolute;
 margin: 20px;
-bottom: 50px;
 right: 100px;
 width: 300px;
 }
 
 .afbeelding4 {
-  position: relative;
+  position: absolute;
   margin: 50px;
   border-radius: 50px;
   right: 100px;
   width: 300px;
 }
+
+
+
+
+
+
 
 .binarybonanza {
   position: absolute;
