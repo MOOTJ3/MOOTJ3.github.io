@@ -115,7 +115,7 @@ width: 300px;
   margin: 20px; 
   display: block; 
   right: 50%; 
-  transform: translateX(-50%); 
+  transform: translateX(50%); 
   width: 300px;  
 }
 
