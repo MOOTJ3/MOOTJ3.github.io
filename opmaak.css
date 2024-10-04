@@ -109,7 +109,7 @@ width: 300px;
 }
 
 .compressie2 {
-  position: relative;
+  position: absolute;
   margin: 20px; 
   display: block; 
   right: 50%; 
