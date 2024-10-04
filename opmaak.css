@@ -98,6 +98,23 @@ width: 300px;
   width: 300px;
 }
 
+.compressie1 {
+  position: relative;
+  margin: 20px; 
+  display: block; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 300px;  
+}
+
+.compressie2 {
+  position: absolute;
+  margin: 20px;
+  top: 50px;
+  right: 100px; 
+  width: 300px;
+}
+
 
 .binarybonanza {
   position: absolute;
