@@ -112,7 +112,7 @@ width: 300px;
   position: relative;
   margin: 20px; 
   display: block; 
-  left: 50%; 
+  right: 50%; 
   transform: translateX(-50%); 
   width: 300px;  
 }
