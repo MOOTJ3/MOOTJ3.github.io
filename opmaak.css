@@ -72,11 +72,12 @@ width: 300px;
   }
 
 .binairstelsel2 {
-  position: absolute;
-  margin: 50px;
-  border-radius: 50px;
-  right: 100px;
-  width: 300px;
+  position: relative;
+  margin: 20px; 
+  display: block; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 300px;  
 }
 
 .kleurmodellen1 {
