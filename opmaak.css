@@ -108,7 +108,12 @@ width: 300px;
   margin: 10px;
 }
 .compressie2 {
-margin-right: 20px;
+ position: absolute;
+ margin:20px;
+ top: 50px;
+ right: 100px;
+ width: 300px;
+
 }
 
 .binarybonanza {
