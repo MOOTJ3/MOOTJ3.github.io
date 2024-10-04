@@ -98,7 +98,7 @@ width: 300px;
 }
 
 .container {
-  display:flex;
+ position: absolute;
   justify-content: space-between;
   margin: 20px;
 }
