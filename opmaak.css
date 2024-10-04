@@ -101,7 +101,6 @@ width: 300px;
  position: relative;
  display: flex;
   justify-content: space-between;
-  margin: 20px;
 }
 
 .compressie1  {
@@ -109,8 +108,11 @@ width: 300px;
   margin: 10px;
 }
 .compressie2 {
+position: absolute;
+margin: 20px;
+top: 50px;
+right: 100px; 
 width: 300px;
-margin: 10px;
 }
 
 .binarybonanza {
