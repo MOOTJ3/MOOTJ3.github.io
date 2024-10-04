@@ -114,7 +114,7 @@ width: 300px;
   position: absolute;
   margin: 20px; 
   display: block; 
-  right: 50%; 
+  right: 100%; 
   transform: translateX(50%); 
   width: 300px;  
 }
