@@ -98,12 +98,13 @@ width: 300px;
 }
 
 .container {
- position: relative;
- display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 100vh;
-}
+  position: relative;
+  display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 100vh;
+ }
+ 
 
 .compressie1  {
   width: 300px;
@@ -112,11 +113,10 @@ width: 300px;
 
 .compressie2 {
   position: absolute;
-  margin: 20px; 
-  display: block; 
-  right: 100%; 
-  transform: translateX(50%); 
-  width: 300px;  
+  margin: 20px;
+  top: 50px;
+  right: 100px; 
+  width: 300px;
 }
 
 .binarybonanza {
