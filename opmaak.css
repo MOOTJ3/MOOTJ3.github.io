@@ -126,12 +126,11 @@ width: 300px;
 }
 
 .bitmap2 {
-  position: relative;
-  margin: 20px; 
-  display: block; 
-  left: 50%; 
-  transform: translateX(-50%); 
-  width: 300px; 
+  position:absolute;
+  margin: 20px;
+  top: 50px;
+  right: 100px;
+  width: 300px;
 }
 
 .binarybonanza {
