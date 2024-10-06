@@ -131,7 +131,7 @@ width: 300px;
   width: 400px;
 }
 .banaire {
-  position: absolute;
+  position: relative;
   position: center;
 }
 .binarybonanza {
