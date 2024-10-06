@@ -113,7 +113,7 @@ width: 300px;
   width: 300px;
 }
 
-.bitmap1 {
+.bitmap2 {
   position: relative;
   margin: 20px; 
   display: block; 
@@ -122,7 +122,7 @@ width: 300px;
   width: 300px;  
 }
 
-.bitmap2 {
+.bitmap1 {
   position:absolute;
   margin: 20px;
   top: 50px;
