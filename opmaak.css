@@ -143,6 +143,10 @@ width: 300px;
   position: absolute;
   position: center;
 }
+.bitmap {
+  position: absolute;
+  position: center;
+}
 
 footer {
   position: fixed;
