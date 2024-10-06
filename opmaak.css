@@ -139,6 +139,10 @@ width: 300px;
   position: center;
 }
 
+.kleurmodellen {
+  position: absolute;
+  position: center;
+}
 
 footer {
   position: fixed;
