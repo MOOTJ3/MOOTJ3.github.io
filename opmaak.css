@@ -1,8 +1,8 @@
 .pagina {
-  position: absolute; /* dat het geen andere afbeelingen hinderet */
-  bottom: 0; /* benden plaatsen */ 
-  right: 0;/* naar rechts plaatsen */ 
-  margin: 10px; /* zogrt dat er ruimte komt tussen andere dingen op je pagina */
+  position: absolute;             /* dat het geen andere afbeelingen hinderet */
+  bottom: 0;                      /* benden plaatsen */ 
+  right: 0;                       /* naar rechts plaatsen */ 
+  margin: 10px;                   /* zogrt dat er ruimte komt tussen andere dingen op je pagina */
 }
 
 .pagina2 {
@@ -14,15 +14,15 @@
 
 
 ul {
-  list-style-type: none; /* dit zogrt dat de opsommingtekens verborgen worden */
-  margin: 0;
-  padding: 0; /* het zorgt dat er geen ruimte komt tussen de informatie en de onderedelen */
-  overflow: hidden; /* dit maakt de informatie die in de balk moet staan zichtbaar */
-  background-color: #161414; /* dit geef aan de achtergrond kleur van de balk */
+  list-style-type: none;          /* dit zogrt dat de opsommingtekens verborgen worden */
+  margin: 0; 
+  padding: 0;                     /* het zorgt dat er geen ruimte komt tussen de informatie en de onderedelen */
+  overflow: hidden;               /* dit maakt de informatie die in de balk moet staan zichtbaar */
+  background-color: #161414;   /* dit geef aan de achtergrond kleur van de balk */
 }
 
 li {
-  float: left; /* zorgt dat het informatie die aan de linker kant staat bijf staan en de andere informatie er om heen gaan */
+  float: left;                  /* zorgt dat het informatie die aan de linker kant staat bijf staan en de andere informatie er om heen gaan */
 }
 
 li a {
