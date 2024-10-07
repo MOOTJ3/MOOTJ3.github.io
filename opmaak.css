@@ -3,7 +3,7 @@
   bottom: 0; /* benden plaatsen */ 
   right: 0;/* naar rechts plaatsen */ 
   margin: 10px; /* zogrt dat er ruimte komt tussen andere dingen op je pagina */
-
+}
 
 .pagina2 {
   position: absolute;
@@ -22,7 +22,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: left; /* zorgt dat het informatie die aan de linker kant staat bijf staan en de andere informatie er om heen gaan */
 }
 
 li a {
