@@ -1,11 +1,11 @@
-.pagina {
+.pagina {                          /* dit is een link naar de pagina */
   position: absolute;             /* dat het geen andere afbeelingen hinderet */
   bottom: 0;                      /* benden plaatsen */ 
   right: 0;                       /* naar rechts plaatsen */ 
   margin: 10px;                   /* zogrt dat er ruimte komt tussen andere dingen op je pagina */
 }
 
-.pagina2 {
+.pagina2 {                       /* dit is een link naar de pagina2 */
   position: absolute;
   bottom: 0;
   right: 0;
@@ -13,7 +13,7 @@
 }
 
 
-ul {
+ul {                               /* dit is een link van de lijst voor de balk */
   list-style-type: none;          /* dit zogrt dat de opsommingtekens verborgen worden */
   margin: 0; 
   padding: 0;                     /* het zorgt dat er geen ruimte komt tussen de informatie en de onderedelen */
@@ -21,11 +21,11 @@ ul {
   background-color: #161414;   /* dit geef aan de achtergrond kleur van de balk */
 }
 
-li {
+li {                             /* dit is een link van de stijl van de balk */
   float: left;                  /* zorgt dat het informatie die aan de linker kant staat bijf staan en de andere informatie er om heen gaan */
 }
 
-li a {
+li a {                           /* is een link van de balk */
   display: block;               /* zorgt dat de het de hele ruimte gebruikt */ 
   color: white;               /* kleur wit */ 
   text-align: center;           /* zorgt dat het in de midden van de vakje is */
@@ -37,12 +37,12 @@ li a:hover {                    /* li en a geven een link van de balk door en ho
   background-color: rgb(124, 118, 118);
 }
 
-body{ 
+body{                          /* is een link van de lichaam van de website waar als op de pagina komt */
   background-color: rgb(85, 165, 165);
   height: 120vh;              /* geeft aan de hoogte van de paginas aan */ 
 } 
 
-.title { 
+.title {                   /* is een link voor de titel */
 
   text-align: center;
   margin-top: 40px;        /* zorgt dat er ruimte 40px boven de titel is */
@@ -52,12 +52,12 @@ body{
   color:#e3d5d5
 }
 
-p {
+p {                      /* is een link voor de text */
   max-width: 800px;     /*  het zorgt dat text maximaal 800px brede heeft */ 
   text-align: justify;  /* zorgt er voor dat de teext gelijk verdeelt is */
 }
 
-.index1 {
+.index1 {             /* is een link voor de afbeelding die op de home pagina staat van de website */
 position:absolute;
 margin: 20px;
 top: 50px;           /* zorgt er voor de het afbeelding 50px onder is */
@@ -65,7 +65,7 @@ right: 100px;
 width: 300px;        /* hoe groot het is */
 }
 
-.binairstelsel1 {
+.binairstelsel1 {  /* is een link van de afbeelding die op de banairestelsel pagina staat */ 
   position:absolute;
   margin: 20px;
   top: 50px;
@@ -74,7 +74,7 @@ width: 300px;        /* hoe groot het is */
   }
 
 
-.kleurmodellen2 {
+.kleurmodellen2 {          /* is een link van de afbeelding die op de kleurmodellen pagina staat */
   position: absolute;
   margin: 20px;
   top: 50px;
@@ -83,11 +83,11 @@ width: 300px;        /* hoe groot het is */
 }
 
 
-.compressie1  {
+.compressie1  {        /* is een link van de afbeedling die op de compressie pagina staat */
   position: relative;  /* dit maakt het mogelijk om de afbeelding te verplaatsen vergeleken met het normale plaats */
   margin: 20px; 
   display: block; 
-  left: 50%;         /* dit zorgt dat de afbeelding 50px van het linker kant wordt geplaats */
+  left: 50%;           /* dit zorgt dat de afbeelding 50px van het linker kant wordt geplaats */
   transform: translateX(-50%);  /* dit verplaats de afbeelding 50% naar de linker kant */
   width: 300px;  
 }
@@ -100,7 +100,7 @@ width: 300px;        /* hoe groot het is */
   width: 300px;
 }
 
-.bitmap1 {
+.bitmap1 {          /* is een link van de afbeeling die op de bitmab en vectorafbeelding staat */ 
   position:absolute;
   margin: 20px;
   top: 200px;
@@ -108,14 +108,14 @@ width: 300px;        /* hoe groot het is */
   width: 300px;
 }
 
-  .ascii-table {
+  .ascii-table {    /* is een link van de afbeelidng die op de ascil-table pagina staat */ 
     position:absolute;
     bottom: 20px;
     right: 20px;
     width: 1000px;
   }
 
-footer {
+footer {         /* is een link van de onderste gedeeldt waar informatie staat */
   position: fixed;      /* dit laat text van de email op ze plek staan terweil je naar benden scorlt */
   bottom: 0;
   width: 100%;
