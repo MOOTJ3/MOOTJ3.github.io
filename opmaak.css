@@ -110,10 +110,9 @@ width: 300px;        /* hoe groot het is */
 
   .ascii-table{
     position:absolute;
-    margin: 20px;
-    top: 50px;
-    right: 100px;
-    width: 300px;
+    bottom: 20px;
+    right: 20px;
+    width: 700px;
   }
 
 footer {
