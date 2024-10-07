@@ -1,8 +1,13 @@
 .pagina {
+  position: absolute; 
+  bottom: 0; 
+  right: 0;
+  margin: 10px; 
+
   position: absolute;  /* dat het geen andere afbeelingen hinderet */
   bottom: 0; /* benden plaatsen */ 
   right: 0; /* naar rechts plaatsen */ 
-  margin: 10px; /
+  margin: 10px; 
 }
 
 .pagina2 {
@@ -81,6 +86,17 @@ width: 300px;
   width: 300px;
 }
 
+<<<<<<< HEAD
+.compressie1  {
+  position: relative; 
+  margin: 20px; 
+  display: block; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 300px;  
+}
+=======
+>>>>>>> efaccad91f7e2bdf613d4442d7576ca04c76b672
 
 
 .compressie2 {
