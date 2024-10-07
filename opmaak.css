@@ -32,6 +32,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
 li a:hover {
   background-color: rgb(124, 118, 118);
 }
@@ -41,12 +42,12 @@ body{
   height: 120vh;
 }
 
-.title{ 
+.title { 
 
   text-align: center;
   margin-top: 40px;
 }
-.title{
+.title {
   text-align: center;
   color:#e3d5d5
 }
@@ -55,6 +56,7 @@ p {
   max-width: 800px;
   text-align: justify;
 }
+
 .index1 {
 position:absolute;
 margin: 20px;
