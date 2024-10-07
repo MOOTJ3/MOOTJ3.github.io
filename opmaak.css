@@ -1,8 +1,8 @@
 .pagina {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 10px;
+  position: absolute;  /* dat het geen andere afbeelingen hinderet */
+  bottom: 0; /* benden plaatsen */ 
+  right: 0; /* naar rechts plaatsen */ 
+  margin: 10px; /
 }
 
 .pagina2 {
