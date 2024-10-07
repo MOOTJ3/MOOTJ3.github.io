@@ -16,9 +16,9 @@
 ul {
   list-style-type: none; /* dit zogrt dat de opsommingtekens verborgen worden */
   margin: 0;
-  padding: 0; /* 
+  padding: 0; /* het zorgt dat er geen ruimte komt tussen de informatie en de onderedelen */
   overflow: hidden;
-  background-color: #161414;
+  background-color: #161414; /* dit geef aan de achtergrond kleur van de balk */
 }
 
 li {
@@ -72,7 +72,6 @@ width: 300px;
   }
 
 
-
 .kleurmodellen2 {
   position: absolute;
   margin: 20px;
@@ -91,8 +90,6 @@ width: 300px;
   width: 300px;  
 }
 
-
-
 .compressie2 {
   position: absolute;
   margin: 20px;
@@ -100,7 +97,6 @@ width: 300px;
   right: 100px; 
   width: 300px;
 }
-
 
 .bitmap1 {
   position:absolute;
