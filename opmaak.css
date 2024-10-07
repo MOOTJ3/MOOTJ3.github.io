@@ -38,6 +38,7 @@ li a:hover {
 
 body{ 
   background-color: rgb(85, 165, 165);
+  position: absolute;
 }
 
 .title{ 
