@@ -26,26 +26,26 @@ li {
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
+  display: block;               /* zorgt dat de het de hele ruimte gebruikt */ 
+  color: white;               /* kleur wit */ 
+  text-align: center;           /* zorgt dat het in de midden van de vakje is */
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: none;        /* het zorgt er voor dat er nikt on de text is bijvoorbeeld een streep */
 }
 
-li a:hover {
+li a:hover {                    /* li en a geven een link van de balk door en hover is dat je kan zien dat je iets kan veranderen als je met je muis bovenaan bent */ 
   background-color: rgb(124, 118, 118);
 }
 
 body{ 
   background-color: rgb(85, 165, 165);
-  height: 120vh;
-}
+  height: 120vh;              /* geeft aan de hoogte van de paginas aan */ 
+} 
 
 .title { 
 
   text-align: center;
-  margin-top: 40px;
+  margin-top: 40px;        /* zorgt dat er ruimte 40px boven de titel is */
 }
 .title {
   text-align: center;
@@ -53,16 +53,16 @@ body{
 }
 
 p {
-  max-width: 800px;
-  text-align: justify;
+  max-width: 800px;     /*  het zorgt dat text maximaal 800px brede heeft */ 
+  text-align: justify;  /* zorgt er voor dat de teext gelijk verdeelt is */
 }
 
 .index1 {
 position:absolute;
 margin: 20px;
-top: 50px;
+top: 50px;           /* zorgt er voor de het afbeelding 50px onder is */
 right: 100px;
-width: 300px;
+width: 300px;        /* hoe groot het is */
 }
 
 .binairstelsel1 {
@@ -84,11 +84,11 @@ width: 300px;
 
 
 .compressie1  {
-  position: relative; 
+  position: relative;  /* dit maakt het mogelijk om de afbeelding te verplaatsen vergeleken met het normale plaats */
   margin: 20px; 
   display: block; 
-  left: 50%; 
-  transform: translateX(-50%); 
+  left: 50%;         /* dit zorgt dat de afbeelding 50px van het linker kant wordt geplaats */
+  transform: translateX(-50%);  /* dit verplaats de afbeelding 50% naar de linker kant */
   width: 300px;  
 }
 
@@ -109,12 +109,12 @@ width: 300px;
 }
 
 footer {
-  position: fixed;
+  position: fixed;      /* dit laat text van de email op ze plek staan terweil je naar benden scorlt */
   bottom: 0;
   width: 100%;
   background-color: rgb(85, 165, 165);
   text-align: left;
   padding: 10px;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-family: Arial, sans-serif;     /* gebruikt een bepaalde letter type */
+  font-size: 14px;                    /* stelt de groote van de text */ 
 }
