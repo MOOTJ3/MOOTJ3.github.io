@@ -91,13 +91,12 @@ width: 300px;
 }
 
 
-
 .bitmap1 {
   position:absolute;
   margin: 20px;
-  top: 50px;
+  top: 100px;
   right: 100px;
-  width: 400px;
+  width: 300px;
 }
 
 footer {
